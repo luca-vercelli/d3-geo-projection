@@ -70,6 +70,7 @@ export {default as geoPolyhedral} from "./polyhedral/index.js";
 export {default as geoPolyhedralButterfly} from "./polyhedral/butterfly.js";
 export {default as geoPolyhedralCollignon} from "./polyhedral/collignon.js";
 export {default as geoPolyhedralWaterman} from "./polyhedral/waterman.js";
+export {default as geoPolyhedralBall} from "./polyhedral/ball.js";
 export {default as geoProject} from "./project/index.js";
 export {default as geoGringortenQuincuncial} from "./quincuncial/gringorten.js";
 export {default as geoPeirceQuincuncial} from "./quincuncial/peirce.js";
